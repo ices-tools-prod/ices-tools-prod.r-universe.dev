@@ -1,4 +1,8 @@
-[
+[ 
+    {
+        "package": "icesDatsu",
+        "url": "https://github.com/ices-tools-dev/icesDatsu"
+    },
     {
         "package": "sfdSAR",
         "url": "https://github.com/ices-tools-dev/sfdSAR"
