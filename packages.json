@@ -1,5 +1,9 @@
 [ 
     {
+        "package": "mixfishtools",
+        "url": "https://github.com/ices-tools-dev/mixfishtools"
+    },
+    {
         "package": "fisheryO",
         "url": "https://github.com/ices-tools-prod/fisheryO"
     },
