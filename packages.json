@@ -74,5 +74,9 @@
     {
         "package": "icesFO",
         "url": "https://github.com/ices-tools-prod/icesFO"
+    },
+    {
+        "package": "icesdown",
+        "url": "https://github.com/ices-tools-prod/icesdown"
     }
 ]
