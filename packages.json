@@ -72,6 +72,10 @@
         "url": "https://github.com/ices-tools-prod/TAF"
     },
     {
+        "package": "icesTAF",
+        "url": "https://github.com/ices-tools-prod/icesTAF"
+    },    
+    {
         "package": "icesFO",
         "url": "https://github.com/ices-tools-prod/icesFO"
     },
