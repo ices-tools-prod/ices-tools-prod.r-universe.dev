@@ -1,5 +1,9 @@
 [ 
     {
+        "package": "RDBEScore",
+        "url": "https://github.com/ices-tools-dev/RDBEScore"
+    },
+    {
         "package": "mixfishtools",
         "url": "https://github.com/ices-tools-dev/mixfishtools"
     },
