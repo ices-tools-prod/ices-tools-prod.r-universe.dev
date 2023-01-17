@@ -4,10 +4,6 @@
         "url": "https://github.com/fishfollower/SAM/stockassessment"
     },
     {
-        "package": "RDBESvisualise",
-        "url": "https://github.com/ices-tools-dev/RDBESvisualise"
-    },
-    {
         "package": "RDBEScore",
         "url": "https://github.com/ices-tools-dev/RDBEScore"
     },
