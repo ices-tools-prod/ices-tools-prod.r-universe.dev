@@ -1,7 +1,8 @@
 [ 
     {
         "package": "stockassessment",
-        "url": "https://github.com/fishfollower/SAM/stockassessment"
+        "url": "https://github.com/fishfollower/SAM",
+        "subdir": "stockassessment"
     },
     {
         "package": "RDBEScore",
