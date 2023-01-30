@@ -1,8 +1,7 @@
 [ 
     {
-        "package": "stockassessment",
-        "url": "https://github.com/fishfollower/SAM",
-        "subdir": "stockassessment"
+        "package": "icesSAS",
+        "url": "https://github.com/ices-tools-prod/icesSAS"
     },
     {
         "package": "RDBEScore",
