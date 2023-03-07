@@ -1,5 +1,9 @@
 [ 
     {
+        "package": "icesTAFDB",
+        "url": "https://github.com/ices-tools-prod/icesTAFDB"
+    },
+    {
         "package": "icesASD",
         "url": "https://github.com/ices-tools-prod/icesASD"
     },
