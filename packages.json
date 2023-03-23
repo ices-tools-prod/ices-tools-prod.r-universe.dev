@@ -1,5 +1,25 @@
 [ 
     {
+        "package": "ggplotFL",
+        "url": "https://github.com/flr/FLCore"
+    },
+    {
+        "package": "FLBRP",
+        "url": "https://github.com/flr/FLCore"
+    },
+    {
+        "package": "FLasher",
+        "url": "https://github.com/flr/FLCore"
+    },
+    {
+        "package": "mse",
+        "url": "https://github.com/flr/FLCore"
+    },
+    {
+        "package": "FLSRTMB",
+        "url": "https://github.com/flr/FLCore"
+    },
+    {
         "package": "FLRef",
         "url": "https://github.com/Henning-Winker/FLRef"
     },
