@@ -1,23 +1,23 @@
 [ 
     {
         "package": "ggplotFL",
-        "url": "https://github.com/flr/FLCore"
+        "url": "https://github.com/flr/ggplotFL"
     },
     {
         "package": "FLBRP",
-        "url": "https://github.com/flr/FLCore"
+        "url": "https://github.com/flr/FLBRP"
     },
     {
         "package": "FLasher",
-        "url": "https://github.com/flr/FLCore"
+        "url": "https://github.com/flr/FLasher"
     },
     {
         "package": "mse",
-        "url": "https://github.com/flr/FLCore"
+        "url": "https://github.com/flr/mse"
     },
     {
         "package": "FLSRTMB",
-        "url": "https://github.com/flr/FLCore"
+        "url": "https://github.com/flr/FLSRTMB"
     },
     {
         "package": "FLRef",
