@@ -1,5 +1,10 @@
 [ 
     {
+        "package": "FLfse",
+        "url": "https://github.com/flr/FLfse",
+        "subdir": "FLfse"
+    },
+    {
         "package": "ggplotFL",
         "url": "https://github.com/flr/ggplotFL"
     },
