@@ -1,5 +1,10 @@
 [ 
     {
+        "package": "stockassessment",
+        "url": "https://github.com/fishfollower/SAM",
+        "subdir": "stockassessment"
+    },
+    {
         "package": "FLfse",
         "url": "https://github.com/flr/FLfse",
         "subdir": "FLfse"
