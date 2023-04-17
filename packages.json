@@ -5,6 +5,10 @@
         "subdir": "FLfse"
     },
     {
+        "package": "FLFishery",
+        "url": "https://github.com/flr/FLFishery"
+    },
+    {
         "package": "ggplotFL",
         "url": "https://github.com/flr/ggplotFL"
     },
