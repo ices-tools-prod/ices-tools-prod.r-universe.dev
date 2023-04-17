@@ -1,4 +1,9 @@
-[ 
+[
+    {
+        "package": "spict",
+        "url": "https://github.com/DTUAqua/spict",
+        "subdir": "spict"
+    },
     {
         "package": "stockassessment",
         "url": "https://github.com/fishfollower/SAM",
