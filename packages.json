@@ -1,5 +1,9 @@
 [
     {
+        "package": "cat3advice",
+        "url": "https://github.com/shfischer/cat3advice"
+    },
+    {
         "package": "spict",
         "url": "https://github.com/DTUAqua/spict",
         "subdir": "spict"
