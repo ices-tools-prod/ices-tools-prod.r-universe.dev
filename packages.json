@@ -1,5 +1,9 @@
 [
     {
+        "package": "sfdSAR",
+        "url": "https://github.com/ices-tools-dev/sfdSAR"
+    },
+    {
         "package": "cat3advice",
         "url": "https://github.com/shfischer/cat3advice"
     },
