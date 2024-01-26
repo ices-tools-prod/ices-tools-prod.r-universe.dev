@@ -1,5 +1,9 @@
 [
     {
+        "package": "rgdal",
+        "url": "https://github.com/cran/rgdal"
+    },
+    {
         "package": "sfdSAR",
         "url": "https://github.com/ices-tools-dev/sfdSAR"
     },
