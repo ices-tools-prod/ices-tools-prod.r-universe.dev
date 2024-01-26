@@ -1,5 +1,9 @@
 [
     {
+        "package": "ss3diags",
+        "url": "https://github.com/PIFSCstockassessments/ss3diags"
+    },
+    {
         "package": "rgdal",
         "url": "https://github.com/cran/rgdal"
     },
