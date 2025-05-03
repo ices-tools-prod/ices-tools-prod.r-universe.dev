@@ -59,10 +59,6 @@
     "url": "https://github.com/ices-tools-dev/sfdSAR"
   },
   {
-    "package": "fisheryO",
-    "url": "https://github.com/ices-tools-prod/fisheryO"
-  },
-  {
     "package": "icesAdvice",
     "url": "https://github.com/ices-tools-prod/icesAdvice"
   },
