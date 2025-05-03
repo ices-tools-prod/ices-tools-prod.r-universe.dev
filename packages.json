@@ -1,165 +1,149 @@
 [
-    {
-        "package": "icesConnect",
-        "url": "https://github.com/ices-tools-prod/icesConnect"
-    },
-    {
-        "package": "r4ss",
-        "url": "https://github.com/r4ss/r4ss"
-    },
-    {
-        "package": "ss3diags",
-        "url": "https://github.com/PIFSCstockassessments/ss3diags"
-    },
-    {
-        "package": "rgdal",
-        "url": "https://github.com/cran/rgdal"
-    },
-    {
-        "package": "sfdSAR",
-        "url": "https://github.com/ices-tools-dev/sfdSAR"
-    },
-    {
-        "package": "cat3advice",
-        "url": "https://github.com/shfischer/cat3advice"
-    },
-    {
-        "package": "spict",
-        "url": "https://github.com/DTUAqua/spict",
-        "subdir": "spict"
-    },
-    {
-        "package": "stockassessment",
-        "url": "https://github.com/fishfollower/SAM",
-        "subdir": "stockassessment"
-    },
-    {
-        "package": "FLfse",
-        "url": "https://github.com/flr/FLfse",
-        "subdir": "FLfse"
-    },
-    {
-        "package": "FLFishery",
-        "url": "https://github.com/flr/FLFishery"
-    },
-    {
-        "package": "ggplotFL",
-        "url": "https://github.com/flr/ggplotFL"
-    },
-    {
-        "package": "FLBRP",
-        "url": "https://github.com/flr/FLBRP"
-    },
-    {
-        "package": "FLasher",
-        "url": "https://github.com/flr/FLasher"
-    },
-    {
-        "package": "mse",
-        "url": "https://github.com/flr/mse"
-    },
-    {
-        "package": "FLSRTMB",
-        "url": "https://github.com/flr/FLSRTMB"
-    },
-    {
-        "package": "FLRef",
-        "url": "https://github.com/Henning-Winker/FLRef"
-    },
-    {
-        "package": "icesTAFDB",
-        "url": "https://github.com/ices-tools-prod/icesTAFDB"
-    },
-    {
-        "package": "icesASD",
-        "url": "https://github.com/ices-tools-prod/icesASD"
-    },
-    {
-        "package": "RDBEScore",
-        "url": "https://github.com/ices-tools-dev/RDBEScore"
-    },
-    {
-        "package": "mixfishtools",
-        "url": "https://github.com/ices-tools-dev/mixfishtools"
-    },
-    {
-        "package": "fisheryO",
-        "url": "https://github.com/ices-tools-prod/fisheryO"
-    },
-    {
-        "package": "icesDatsuQC",
-        "url": "https://github.com/ices-tools-prod/icesDatsuQC"
-    },
-    {
-        "package": "FLCore",
-        "url": "https://github.com/flr/FLCore"
-    },
-    {
-        "package": "icesDatsu",
-        "url": "https://github.com/ices-tools-prod/icesDatsu"
-    },
-    {
-        "package": "sfdSAR",
-        "url": "https://github.com/ices-tools-dev/sfdSAR"
-    },
-    {
-        "package": "cpmtools",
-        "url": "https://github.com/colinpmillar/cpmtools"
-    },
-    {
-        "package": "icesVocab",
-        "url": "https://github.com/ices-tools-prod/icesVocab"
-    },
-    {
-        "package": "icesDatras",
-        "url": "https://github.com/ices-tools-prod/icesDatras"
-    },
-    {
-        "package": "icesSAG",
-        "url": "https://github.com/ices-tools-prod/icesSAG"
-    },
-    {
-        "package": "msy",
-        "url": "https://github.com/ices-tools-prod/msy"
-    },
-    {
-        "package": "icesSD",
-        "url": "https://github.com/ices-tools-prod/icesSD"
-    },
-    {
-        "package": "icesConnect",
-        "url": "https://github.com/ices-tools-prod/icesConnect"
-    },
-    {
-        "package": "icesVMS",
-        "url": "https://github.com/ices-tools-prod/icesVMS"
-    },
-    {
-        "package": "icesSharePoint",
-        "url": "https://github.com/ices-tools-prod/icesSharePoint"
-    },
-    {
-        "package": "icesAdvice",
-        "url": "https://github.com/ices-tools-prod/icesAdvice"
-    },
-    {
-        "package": "rct3",
-        "url": "https://github.com/ices-tools-prod/rct3"
-    },
-    {
-        "package": "TAF",
-        "url": "https://github.com/ices-tools-prod/TAF"
-    },
-    {
-        "package": "icesTAF",
-        "url": "https://github.com/ices-tools-prod/icesTAF"
-    },    
-    {
-        "package": "icesFO",
-        "url": "https://github.com/ices-tools-prod/icesFO"
-    },
-    {
-        "package": "icesdown",
-        "url": "https://github.com/ices-tools-prod/icesdown"
-    }
+  {
+    "package": "spict",
+    "url": "https://github.com/DTUAqua/spict",
+    "subdir": "spict"
+  },
+  {
+    "package": "stockassessment",
+    "url": "https://github.com/fishfollower/SAM",
+    "subdir": "stockassessment"
+  },
+  {
+    "package": "FLasher",
+    "url": "https://github.com/flr/FLasher"
+  },
+  {
+    "package": "FLBRP",
+    "url": "https://github.com/flr/FLBRP"
+  },
+  {
+    "package": "FLCore",
+    "url": "https://github.com/flr/FLCore"
+  },
+  {
+    "package": "FLFishery",
+    "url": "https://github.com/flr/FLFishery"
+  },
+  {
+    "package": "FLfse",
+    "url": "https://github.com/flr/FLfse",
+    "subdir": "FLfse"
+  },
+  {
+    "package": "FLSRTMB",
+    "url": "https://github.com/flr/FLSRTMB"
+  },
+  {
+    "package": "ggplotFL",
+    "url": "https://github.com/flr/ggplotFL"
+  },
+  {
+    "package": "mse",
+    "url": "https://github.com/flr/mse"
+  },
+  {
+    "package": "FLRef",
+    "url": "https://github.com/Henning-Winker/FLRef"
+  },
+  {
+    "package": "mixfishtools",
+    "url": "https://github.com/ices-tools-dev/mixfishtools"
+  },
+  {
+    "package": "RDBEScore",
+    "url": "https://github.com/ices-tools-dev/RDBEScore"
+  },
+  {
+    "package": "sfdSAR",
+    "url": "https://github.com/ices-tools-dev/sfdSAR"
+  },
+  {
+    "package": "fisheryO",
+    "url": "https://github.com/ices-tools-prod/fisheryO"
+  },
+  {
+    "package": "icesAdvice",
+    "url": "https://github.com/ices-tools-prod/icesAdvice"
+  },
+  {
+    "package": "icesASD",
+    "url": "https://github.com/ices-tools-prod/icesASD"
+  },
+  {
+    "package": "icesConnect",
+    "url": "https://github.com/ices-tools-prod/icesConnect"
+  },
+  {
+    "package": "icesDatras",
+    "url": "https://github.com/ices-tools-prod/icesDatras"
+  },
+  {
+    "package": "icesDatsu",
+    "url": "https://github.com/ices-tools-prod/icesDatsu"
+  },
+  {
+    "package": "icesDatsuQC",
+    "url": "https://github.com/ices-tools-prod/icesDatsuQC"
+  },
+  {
+    "package": "icesdown",
+    "url": "https://github.com/ices-tools-prod/icesdown"
+  },
+  {
+    "package": "icesFO",
+    "url": "https://github.com/ices-tools-prod/icesFO"
+  },
+  {
+    "package": "icesSAG",
+    "url": "https://github.com/ices-tools-prod/icesSAG"
+  },
+  {
+    "package": "icesSD",
+    "url": "https://github.com/ices-tools-prod/icesSD"
+  },
+  {
+    "package": "icesSharePoint",
+    "url": "https://github.com/ices-tools-prod/icesSharePoint"
+  },
+  {
+    "package": "icesTAF",
+    "url": "https://github.com/ices-tools-prod/icesTAF"
+  },
+  {
+    "package": "icesTAFDB",
+    "url": "https://github.com/ices-tools-prod/icesTAFDB"
+  },
+  {
+    "package": "icesVMS",
+    "url": "https://github.com/ices-tools-prod/icesVMS"
+  },
+  {
+    "package": "icesVocab",
+    "url": "https://github.com/ices-tools-prod/icesVocab"
+  },
+  {
+    "package": "msy",
+    "url": "https://github.com/ices-tools-prod/msy"
+  },
+  {
+    "package": "rct3",
+    "url": "https://github.com/ices-tools-prod/rct3"
+  },
+  {
+    "package": "TAF",
+    "url": "https://github.com/ices-tools-prod/TAF"
+  },
+  {
+    "package": "ss3diags",
+    "url": "https://github.com/PIFSCstockassessments/ss3diags"
+  },
+  {
+    "package": "r4ss",
+    "url": "https://github.com/r4ss/r4ss"
+  },
+  {
+    "package": "cat3advice",
+    "url": "https://github.com/shfischer/cat3advice"
+  }
 ]
