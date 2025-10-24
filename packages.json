@@ -1,5 +1,9 @@
 [
   {
+    "package": "icesUtils",
+    "url": "https://github.com/ices-tools-dev/icesUtils"
+  },
+  {
     "package": "spict",
     "url": "https://github.com/DTUAqua/spict",
     "subdir": "spict"
