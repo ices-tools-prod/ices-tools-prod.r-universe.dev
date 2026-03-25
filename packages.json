@@ -1,5 +1,9 @@
 [
   {
+    "package": "icesRDBES",
+    "url": "https://github.com/ices-tools-prod/icesRDBES"
+  },
+  {
     "package": "icesUtils",
     "url": "https://github.com/ices-tools-dev/icesUtils"
   },
