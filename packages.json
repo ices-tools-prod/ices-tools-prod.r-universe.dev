@@ -10,7 +10,8 @@
   {
     "package": "spict",
     "url": "https://github.com/DTUAqua/spict",
-    "subdir": "spict"
+    "subdir": "spict",
+    "branch": "dev"
   },
   {
     "package": "stockassessment",
