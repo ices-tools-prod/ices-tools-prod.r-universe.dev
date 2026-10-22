@@ -1,5 +1,9 @@
 [
   {
+    "package": "rcef",
+    "url": "https://github.com/DVillagra26/rcef"
+  },
+  {
     "package": "FishLife",
     "url": "https://github.com/James-Thorson-NOAA/FishLife"
   },
