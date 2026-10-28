@@ -1,5 +1,10 @@
 [
   {
+    "package": "multiStockassessment",
+    "url": "https://github.com/calbertsen/multi_SAM",
+    "subdir": "multiStockassessment"
+  },
+  {
     "package": "rcef",
     "url": "https://github.com/DVillagra26/rcef"
   },
