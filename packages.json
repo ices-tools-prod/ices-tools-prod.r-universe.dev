@@ -3,7 +3,7 @@
     "package": "TMB",
     "url": "https://github.com/kaskr/adcomp",
     "subdir": "TMB",
-    "branch": "1.9.23"
+    "branch": "v1.9.23"
   },
   {
     "package": "multiStockassessment",
