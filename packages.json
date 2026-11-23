@@ -2,8 +2,7 @@
   {
     "package": "TMB",
     "url": "https://github.com/kaskr/adcomp",
-    "subdir": "TMB",
-    "branch": "v1.9.23"
+    "subdir": "TMB"
   },
   {
     "package": "multiStockassessment",
@@ -13,10 +12,6 @@
   {
     "package": "rcef",
     "url": "https://github.com/DVillagra26/rcef"
-  },
-  {
-    "package": "FishLife",
-    "url": "https://github.com/James-Thorson-NOAA/FishLife"
   },
   {
     "package": "qcTAF",
@@ -32,7 +27,7 @@
   },
   {
     "package": "spict",
-    "url": "https://github.com/DTUAqua/spict",
+    "url": "https://github.com/iagomosqueira/spict",
     "subdir": "spict"
   },
   {
