@@ -1,10 +1,5 @@
 [
   {
-    "package": "TMB",
-    "url": "https://github.com/kaskr/adcomp",
-    "subdir": "TMB"
-  },
-  {
     "package": "multiStockassessment",
     "url": "https://github.com/calbertsen/multi_SAM",
     "subdir": "multiStockassessment"
